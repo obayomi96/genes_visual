@@ -28,6 +28,9 @@ Preview the production build locally:
 npm run preview
 ```
 
+## PS:
+- Kindly click the actual table rows to trigger <b>row selection & multiple rows selection</b>, not the table checkbox icons. Selecting the table checkboxes would not trigger the view nof multiple expression plots for relevant visuals including Violin plot & differential analysis visuals.
+
 ## Learn more
 
 To learn more about Rspack, check out the following resources:
