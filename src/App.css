@@ -1,0 +1,23 @@
+.MRT_TopToolbar-module_actions-container__-uL0u {
+  display: flex;
+  justify-content: end;
+}
+
+.mantine-Table-tr {
+  font-size: 12px;
+  /* padding: 5px, */
+  cursor: pointer;
+  display: table-row;
+  align-items: center;
+}
+
+.mrt-table-pagination {
+  width: 100%;
+  border-top: 1px #ddd solid;
+  margin-top: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
